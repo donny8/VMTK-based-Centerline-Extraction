@@ -21,7 +21,6 @@ The `Segmentation Fault` error could happen.
 
 In my case, it was due to the vtk version difference.
 
-Instead of loading the nifti file, processing a vtk file created in higher vtk `ex) 9.1.0` could lead to the error in lower vtk `ex) 8.1.0`
+Processing a vtk file created in higher vtk `ex) 9.1.0` could lead to the error in lower vtk `ex) 8.1.0`
 
 In this case, you could transform your vtk file 9.1.0 in `stl` format and load the stl file ([refer](https://github.com/donny8/Centerline-Extraction/blob/5648b42003a09133744de2ca2b38e444420a1194/centerline_extraction_python.py#L102)). 
-
