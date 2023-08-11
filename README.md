@@ -1,5 +1,5 @@
 # Centerline-Extraction
-## Intro
+## Info
 The codes were implemented for the coronary artery centerline extraction.
 
 Both codes were written based on the [ExtractCenterline](https://github.com/vmtk/SlicerExtension-VMTK/blob/master/ExtractCenterline/ExtractCenterline.py) in [vmtk/SlicerExtension-VMTK](https://github.com/vmtk/SlicerExtension-VMTK)
