@@ -4,9 +4,9 @@ The codes were implemented for the coronary artery centerline extraction.
 
 Both codes were written based on the [ExtractCenterline](https://github.com/vmtk/SlicerExtension-VMTK/blob/master/ExtractCenterline/ExtractCenterline.py) in [vmtk/SlicerExtension-VMTK](https://github.com/vmtk/SlicerExtension-VMTK)
 
-`centerline_extraction_slicer.py` was to be used with 3Dslicer python prompt.
+`centerline_extraction_slicer.py` was to be used __with__ the [slicer](https://www.slicer.org/) python prompt.
 
-`centerline_extracion_python.py` was to be used __without__ the slicer program.
+`centerline_extracion_python.py` was to be used __without__ the slicer.
 
 
 ## Environment
